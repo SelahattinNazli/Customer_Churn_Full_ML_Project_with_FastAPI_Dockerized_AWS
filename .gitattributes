@@ -1,2 +1,1 @@
-echo "*.ipynb linguist-vendored=true" > .gitattributes
-
+*.ipynb linguist-vendored=true
