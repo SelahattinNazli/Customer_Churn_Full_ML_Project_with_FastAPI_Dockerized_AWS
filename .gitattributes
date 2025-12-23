@@ -1,1 +1,2 @@
-echo "*.ipynb linguist-vendored" >> .gitattributes
+echo "*.ipynb linguist-vendored=true" > .gitattributes
+
